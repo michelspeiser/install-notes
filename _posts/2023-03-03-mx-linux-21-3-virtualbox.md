@@ -1,3 +1,8 @@
+---
+title: "Set up an MX Linux 21.3 VM and install R 4.2 with tidyverse"
+date: 2023-03-03
+---
+
 These pages contain installation and configuration steps taken. 
 
 They should not be regarded as a manual; rather, they serve as an external memory to me, so I can retrace my steps when something breaks.
